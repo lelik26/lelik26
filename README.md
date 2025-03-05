@@ -28,9 +28,10 @@ LangChain |Fine-tuning (PyTorch) |
 
 ### 💻 **Программирование и инфраструктура**
 ```python
-Python | Jupyter | Replit |  | 
-GitHub | Make | Zapier | Albato |Voiceflow | Bootstrap | Flask
-Google Sheet
+Python | Swift | 
+GitHub | Jupyter | Replit | Make | Zapier | Albato |Voiceflow | Bootstrap | Flask
+Google Sheet 
+Adalo| Glide| 
 база данных PostgreSQL 
 ```
 
