@@ -20,7 +20,7 @@
 
 ### 🌐 **ИИ/ML**
 ```python
-OpenAI (GPTs, DALL-E, Whisper, TTS, STT) |DeepSeek| Perplexity| Claude 3 | Gemini | LLaMA | Hugging Face 
+OpenAI (GPTs, DALL-E, Whisper, TTS, STT) |DeepSeek| DeepL|Perplexity| Claude 3 | Gemini | LLaMA | Hugging Face 
 YandexGPT| SalutSber |  ElevenLabs |  Prompt Engineering
 Telegram
 LangChain |Fine-tuning (PyTorch) |
@@ -31,7 +31,7 @@ LangChain |Fine-tuning (PyTorch) |
 Python | Jupyter | Replit |  | 
 GitHub | Make | Zapier | Albato |Voiceflow | Bootstrap | Flask
 Google Sheet
-база данных
+база данных PostgreSQL 
 ```
 
 ---
@@ -41,7 +41,7 @@ Google Sheet
 - **Полный цикл разработки**: от идеи до внедрения (включая CRM-интеграцию, аналитику, обучение команды)  
 - **Гибкие решения**: от zero_code , low-code для быстрого MVP  
 
-📫 **Давайте работать вместе!** → [LinkedIn](ссылка) | [Telegram](ссылка) | [Портфолио](https://github.com/)
+📫 **Давайте работать вместе!** → [LinkedIn](ссылка) | [Telegram](@Aleks79Sib) | [Портфолио](https://github.com/)
 
 
 
