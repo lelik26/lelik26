@@ -38,11 +38,16 @@ Adalo| Glide|
 ООП Swift
 Git контроль версий
 ```
-*Чат-боты на Python:*
-[Assistent](https://github.com/lelik26/AsyaAssistantBot)
+***Чат-боты на Python:***
+
+[Бот Ассистент](https://github.com/lelik26/AsyaAssistantBot)
+
 [Бот Юрист](https://github.com/lelik26/AI_Yuri_legal-telegram-bot)
+
 [Простой бот с озвучкой](https://github.com/lelik26/TalkAboutAllProject)
+
 [Бот переводчик](https://github.com/lelik26/TeacherLearningLanguagesBot/blob/main/README.md)
+
 ---
 
 ## 📈 **Что я приношу в проект?**
