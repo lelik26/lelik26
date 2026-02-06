@@ -48,6 +48,9 @@ Git контроль версий
 
 [Бот переводчик](https://github.com/lelik26/TeacherLearningLanguagesBot/blob/main/README.md)
 
+**Проекты на n8n:**
+[N8N](https://github.com/lelik26/-n8n)
+
 ---
 
 ## 📈 **Что я приношу в проект?**
