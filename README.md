@@ -64,7 +64,7 @@ Git контроль версий
 * онлайн обучение по программе "Промпт инженеринг" от компании Университет Зерокодинга [Zerocoder](https://zerocoder.ru) 2025
   
 
-📫 **Давайте работать вместе!** → [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Aleks79Sib) | [Portfolio N8N](https://github.com/lelik26/-n8n/blob/main/README.md)|[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:van-23@mail.ru)
+📫 **Давайте работать вместе!** → [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Aleks79Sib) | [Portfolio N8N](https://github.com/lelik26/-n8n/blob/main/README.md)|[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lelik.van-23@yandex.ru)
 
  
 
