@@ -32,8 +32,9 @@ LangChain |Fine-tuning (PyTorch) |
 
 ### 💻 **Программирование и инфраструктура**
 ```python
-Python | Swift | 
-GitHub | Jupyter | Replit | n8n |Make | Zapier | Albato |Voiceflow | Bootstrap | Flask
+Python | Swift | Bash | Linux
+Docker | Docker Swarm | Ansible | Consul | Vagrant | Kubernetes
+GitHub | GitLab| Jupyter | Replit | n8n |Make | Zapier | Albato |Voiceflow | Bootstrap | Flask
 Google Sheet 
 Adalo| Glide| 
 Векторная база данных | Supabase| Baserow | Pinecone
